@@ -1,5 +1,5 @@
 # Capstone_Project
-file:///C:/Users/rocco/OneDrive/Desktop/capstone_project/capstone_v2.html
+
 
 - Google Analytics Capstone Project
 - Ambika Muscarello
